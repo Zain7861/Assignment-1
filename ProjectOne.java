@@ -26,7 +26,7 @@ class TrackData{
  
     public TrackData(){
         this.cols = 5; //default length and width for the array
-        this.rows = 200;
+        this.rows = 5;
         this.data = new String[rows][cols];
     }
     /*
